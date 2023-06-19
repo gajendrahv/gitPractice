@@ -8,6 +8,7 @@ public class addition {
 		int b=sc.nextInt();
 		int c=a+b;
 		System.out.println("addition of a & b is "+c);
+		System.out.println("subtraction of a & b is "+(a-b));
 
 	}
 
